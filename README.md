@@ -4,6 +4,11 @@ Turns the raw text an OCR engine reads from an identity document into one JSON o
 Built for Khmer national ID cards, passports (Cambodian and foreign) and Cambodian visas,
 with fields in Khmer, English or both.
 
+**The name:** *KYC* is "know your customer", the identity check a bank or an app does when
+someone signs up. *KIE* is "key information extraction": finding the pieces of a document
+that matter (the name, the ID number, the dates) in its text and returning them as named
+fields. So kyc-kie is key information extraction for KYC documents.
+
 This is a Python library: the model (about 1.9 MB, inside the package) and the code around
 it.
 
