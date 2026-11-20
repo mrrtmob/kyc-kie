@@ -230,4 +230,4 @@ distinguishing marks are about 85% similar, character by character, to the true 
 
 ## Licence
 
-MIT. See `LICENSE`.
+MIT. See [LICENSE](LICENSE).
